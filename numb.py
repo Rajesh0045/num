@@ -1,7 +1,7 @@
 x,y,z=input().split()
-if(x>=y and y>=z):
+if(x>=y y>=z):
     print(x)
-elif(y>=x and y>=z):
+elif(y>=x y>=z):
     print(y)
-elif(z>=x and z>=y):
+elif(z>=x z>=y):
     print(z)
